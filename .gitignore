@@ -1,0 +1,7 @@
+.vs/
+target/
+*.user
+*.suo
+.classpath
+.project
+.settings/
